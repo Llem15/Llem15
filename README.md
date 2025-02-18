@@ -1,7 +1,7 @@
 <h1 align="center"> Hola, Bienvenido(a) </h1>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi 
-Mi nombre es Nayely, tengo 20 años y actualmente vivo en Perú. Soy estudiante de Ingeniería de Sistemas e informática🤖, enfocada en el Análisis de Sistemas y el Diseño de Experiencia de Usuario (UX). Desde siempre me ha apasionado la tecnología y cómo esta puede mejorar la vida de las personas, por lo que disfruto explorar nuevas herramientas y metodologías para crear soluciones innovadoras y funcionales.
+Mi nombre es Nayely, actualmente vivo en Perú. Soy estudiante de Ingeniería de Sistemas e informática🤖, enfocada en el Análisis de Sistemas y el Diseño de Experiencia de Usuario (UX). Desde siempre me ha apasionado la tecnología y cómo esta puede mejorar la vida de las personas, por lo que disfruto explorar nuevas herramientas y metodologías para crear soluciones innovadoras y funcionales.
 
 Además de mi formación académica, me considero una persona curiosa y creativa🎨. En mi tiempo libre, me gusta explorar nuevas tendencias en diseño UX/UI, tocar un instrumento musical🎻, diseñar interfaces, jugar videojuegos y leer libros. Estos hobbies no solo me permiten relajarme, sino también inspirarme y desarrollar habilidades que complementan mi perfil profesional.
 
