@@ -32,4 +32,3 @@ Me defino como alguien con atención al detalle, capacidad de adaptación y una 
 
 </div>
 
-<h6 align="center">Hecho por mi 💗 </h6>
