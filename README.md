@@ -27,8 +27,8 @@ Me defino como alguien con atención al detalle, capacidad de adaptación y una 
 
 ### <a href="https://emoji.gg/emoji/9691-hellokittyarrowr"><img src="https://cdn3.emoji.gg/emojis/9691-hellokittyarrowr.gif" width="30px" height="30px" alt="HelloKittyArrowR"></a> Conectemos
   
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/nayely-rodriguez-auccasi-45a049260/))
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](nayellymell@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](<https://www.linkedin.com/in/](https://www.linkedin.com/in/nayely-rodriguez-auccasi-45a049260/>)
+[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](<nayellymell@gmail.com>)
 
 </div>
 
