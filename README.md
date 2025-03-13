@@ -6,9 +6,8 @@
 - Soy de Perú.
 - Estudiante de Ing. Sistemas e Informática.
 - Designer UX/UI.
-- Me considero una persona curiosa y creativa.
 - Me gusta explorar nuevas tendencias en UX/UI, escuchar musica, leer libros y ver series.
-- Me defino como alguien con atención al detalle, capacidad de adaptación y una mentalidad colaborativa
+- Me considero una persona curiosa y creativa, con atención al detalle, capacidad de adaptación y una mentalidad colaborativa.
 
 
 ### <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Herramientas
