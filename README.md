@@ -2,12 +2,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre mi 
 
-- Mi nombre es Nayely
 - Soy de Perú.
 - Estudiante de Ing. Sistemas e Informática.
 - Designer UX/UI.
-- Me gusta explorar nuevas tendencias en UX/UI, escuchar musica, leer libros y ver series.
-- Me considero una persona curiosa y creativa, con atención al detalle, capacidad de adaptación y una mentalidad colaborativa.
+- Me gusta explorar nuevas tendencias en Diseño UX/UI, tecnología e IA.
+- Me considero una persona curiosa y creativa, con atención al detalle, capacidad de adaptación y pensamiento critico.
 
 
 ### <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Herramientas
